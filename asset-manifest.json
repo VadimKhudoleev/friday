@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/friday/static/css/main.24246fe2.css",
+    "main.js": "/friday/static/js/main.2ba5f767.js",
+    "static/media/checked.svg": "/friday/static/media/checked.0b6a1bcf5d417ff0a947.svg",
+    "index.html": "/friday/index.html",
+    "main.24246fe2.css.map": "/friday/static/css/main.24246fe2.css.map",
+    "main.2ba5f767.js.map": "/friday/static/js/main.2ba5f767.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24246fe2.css",
+    "static/js/main.2ba5f767.js"
+  ]
+}
