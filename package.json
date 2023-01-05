@@ -2,7 +2,7 @@
   "name": "friday",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vadimkhudoleev.github.io/friday",
+  "homepage": "https://VadimKhudoleev.github.io/friday",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
