@@ -11,14 +11,14 @@ function Pages() {
     return (
         <div>
             <Routes>
-                <Route path={"/"} element={<Test/>}/>
-                <Route path={'/inputnewpassword'} element={<InputNewPassword/>}/>
-                <Route path={'/login'} element={<Login/>}/>
-                <Route path={'/error404'} element={<Error404/>}/>
-                <Route path={'/profile'} element={<Profile/>}/>
-                <Route path={'/restore'} element={<Restore/>}/>
-                <Route path={'/registration'} element={<Registration/>}/>
-                <Route path={'/*'} element={<Error404/>}/>
+                <Route path="friday/" element={<Test/>}/>
+                <Route path='friday/inputnewpassword' element={<InputNewPassword/>}/>
+                <Route path='friday/login' element={<Login/>}/>
+                <Route path='friday/error404' element={<Error404/>}/>
+                <Route path='friday/profile' element={<Profile/>}/>
+                <Route path='friday/restore' element={<Restore/>}/>
+                <Route path='friday/registration' element={<Registration/>}/>
+                <Route path='friday/*' element={<Error404/>}/>
             </Routes>
         </div>
     )
